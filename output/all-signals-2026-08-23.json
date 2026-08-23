@@ -1,0 +1,4106 @@
+[
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000138/0001108524-26-000138-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526106356/0001193125-26-106356-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526106356/0001193125-26-106356-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000131/0001108524-26-000131-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000131/0001108524-26-000131-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526107403/0001193125-26-107403-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-12T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526104282/0001193125-26-104282-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000131/0001108524-26-000131-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-12T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526104282/0001193125-26-104282-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-25T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000056/0001108524-26-000056-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000062/0001108524-26-000062-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-12T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526104282/0001193125-26-104282-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-12T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526104282/0001193125-26-104282-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 1.01",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526106356/0001193125-26-106356-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526107403/0001193125-26-107403-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-25T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000056/0001108524-26-000056-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-27T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000125/0001108524-26-000125-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-08-05T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000160/0001108524-26-000160-index.htm"
+  },
+  {
+    "ticker": "CRM",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-27T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000125/0001108524-26-000125-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-08-05T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526335148/0001193125-26-335148-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-11T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526102426/0001193125-26-102426-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526211923/0001193125-26-211923-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-11T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526102426/0001193125-26-102426-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526211923/0001193125-26-211923-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526138021/0001193125-26-138021-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-08-05T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526335148/0001193125-26-335148-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-08-05T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526335148/0001193125-26-335148-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526138021/0001193125-26-138021-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526272643/0001193125-26-272643-index.htm"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526272643/0001193125-26-272643-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-31T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000013/0001640147-26-000013-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-25T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026011631/0001628280-26-011631-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 5.07",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-06-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000032/0001640147-26-000032-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-31T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000013/0001640147-26-000013-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-27T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000027/0001640147-26-000027-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-27T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000027/0001640147-26-000027-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-25T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026011631/0001628280-26-011631-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-07-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026048373/0001628280-26-048373-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-07-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026047228/0001628280-26-047228-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026038798/0001628280-26-038798-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026013199/0001628280-26-013199-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-07-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026047228/0001628280-26-047228-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026013199/0001628280-26-013199-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026013199/0001628280-26-013199-index.htm"
+  },
+  {
+    "ticker": "MDB",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026038798/0001628280-26-038798-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026031677/0001628280-26-031677-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 5.07",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-06-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026043590/0001628280-26-043590-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026053829/0001628280-26-053829-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026031677/0001628280-26-031677-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026053829/0001628280-26-053829-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026013236/0001628280-26-013236-index.htm"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1561550/000119312526168261/0001193125-26-168261-index.htm"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-24T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000024/0001707753-26-000024-index.htm"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000008/0001707753-26-000008-index.htm"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000003/0001707753-26-000003-index.htm"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000008/0001707753-26-000008-index.htm"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000003/0001707753-26-000003-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-11T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000095/0001653482-26-000095-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-24T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000139/0001653482-26-000139-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-06-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026039805/0001628280-26-039805-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-11T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000095/0001653482-26-000095-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-03-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026013795/0001628280-26-013795-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-06-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026039805/0001628280-26-039805-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000051/0001653482-26-000051-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-03-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026013795/0001628280-26-013795-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-19T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000107/0001653482-26-000107-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-07-08T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000145/0001653482-26-000145-index.htm"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-07-08T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1653482/000165348226000145/0001653482-26-000145-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-24T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000027/0001447669-26-000027-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-17T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000055/0001447669-26-000055-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-04-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000046/0001447669-26-000046-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000088/0001447669-26-000088-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-24T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000027/0001447669-26-000027-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-17T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000055/0001447669-26-000055-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-17T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000055/0001447669-26-000055-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-04-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000046/0001447669-26-000046-index.htm"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000088/0001447669-26-000088-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000012/0001477720-26-000012-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013212/0001628280-26-013212-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013310/0001628280-26-013310-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013310/0001628280-26-013310-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-07-17T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026048674/0001628280-26-048674-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000019/0001477720-26-000019-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000012/0001477720-26-000012-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.07",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-06-12T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026042881/0001628280-26-042881-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000037/0001477720-26-000037-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000019/0001477720-26-000019-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-20T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026025988/0001628280-26-025988-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000037/0001477720-26-000037-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000019/0001477720-26-000019-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013212/0001628280-26-013212-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013310/0001628280-26-013310-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000147772026000012/0001477720-26-000012-index.htm"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-02T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477720/000162828026013212/0001628280-26-013212-index.htm"
+  },
+  {
+    "ticker": "ZS",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-16T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000082/0001713683-26-000082-index.htm"
+  },
+  {
+    "ticker": "ZS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000047/0001713683-26-000047-index.htm"
+  },
+  {
+    "ticker": "ZS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000095/0001713683-26-000095-index.htm"
+  },
+  {
+    "ticker": "ZS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-02-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000047/0001713683-26-000047-index.htm"
+  },
+  {
+    "ticker": "ZS",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-05-26T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000095/0001713683-26-000095-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-23T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000054/0001660134-26-000054-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-23T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000054/0001660134-26-000054-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-23T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000029/0001660134-26-000029-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000050/0001660134-26-000050-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-28T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000050/0001660134-26-000050-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000119312526170498/0001193125-26-170498-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-03-11T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000024/0001660134-26-000024-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-04T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000016/0001660134-26-000016-index.htm"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-03-04T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000016/0001660134-26-000016-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-21T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000018/0001535527-26-000018-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-06-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926076376/0001104659-26-076376-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000013/0001535527-26-000013-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000007/0001535527-26-000007-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 2.02",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-03-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000007/0001535527-26-000007-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-06-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000022/0001535527-26-000022-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-04-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000013/0001535527-26-000013-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-04-21T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000018/0001535527-26-000018-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-06-03T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000022/0001535527-26-000022-index.htm"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "sec",
+    "event_type": "8-K item 5.03",
+    "severity": 30,
+    "confidence": 0.95,
+    "observed_at": "2026-06-22T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926076376/0001104659-26-076376-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000053/0001477333-26-000053-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000042/0001477333-26-000042-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-07-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000044/0001477333-26-000044-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-07-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000044/0001477333-26-000044-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000033/0001477333-26-000033-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-07-01T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000044/0001477333-26-000044-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-08-06T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000053/0001477333-26-000053-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000035/0001477333-26-000035-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 8.01",
+    "severity": 40,
+    "confidence": 0.95,
+    "observed_at": "2026-08-13T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000095010326012340/0000950103-26-012340-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000042/0001477333-26-000042-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000035/0001477333-26-000035-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 7.01",
+    "severity": 35,
+    "confidence": 0.95,
+    "observed_at": "2026-05-07T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000033/0001477333-26-000033-index.htm"
+  },
+  {
+    "ticker": "NET",
+    "source": "sec",
+    "event_type": "8-K item 5.02",
+    "severity": 70,
+    "confidence": 0.95,
+    "observed_at": "2026-06-30T00:00:00+00:00",
+    "evidence_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000042/0001477333-26-000042-index.htm"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "github",
+    "event_type": "release_cadence_change (5 in trailing 90d vs 2 in prior 90d)",
+    "severity": 100.0,
+    "confidence": 0.9,
+    "observed_at": "2026-08-07T13:49:50+00:00",
+    "evidence_url": "https://github.com/snowflakedb/snowflake-connector-python/releases"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "github",
+    "event_type": "release_cadence_change (14 in trailing 90d vs 13 in prior 90d)",
+    "severity": 53.84615384615385,
+    "confidence": 0.9,
+    "observed_at": "2026-08-20T07:20:26+00:00",
+    "evidence_url": "https://github.com/DataDog/datadog-agent/releases"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "github",
+    "event_type": "release_cadence_change (16 in trailing 90d vs 13 in prior 90d)",
+    "severity": 61.53846153846154,
+    "confidence": 0.9,
+    "observed_at": "2026-08-20T16:44:04+00:00",
+    "evidence_url": "https://github.com/elastic/elasticsearch/releases"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "github",
+    "event_type": "release_cadence_change (1 in trailing 90d vs 6 in prior 90d)",
+    "severity": 8.333333333333329,
+    "confidence": 0.9,
+    "observed_at": "2026-08-11T11:32:51+00:00",
+    "evidence_url": "https://github.com/twilio/twilio-python/releases"
+  },
+  {
+    "ticker": "MNDY",
+    "source": "github",
+    "event_type": "release_cadence_change (100 in trailing 90d vs 0 in prior 90d)",
+    "severity": 100.0,
+    "confidence": 0.9,
+    "observed_at": "2026-08-23T17:09:08+00:00",
+    "evidence_url": "https://github.com/mondaycom/vibe/releases"
+  },
+  {
+    "ticker": "ZS",
+    "source": "github",
+    "event_type": "release_cadence_change (7 in trailing 90d vs 5 in prior 90d)",
+    "severity": 70.0,
+    "confidence": 0.9,
+    "observed_at": "2026-08-18T20:50:19+00:00",
+    "evidence_url": "https://github.com/zscaler/terraform-provider-zpa/releases"
+  },
+  {
+    "ticker": "OKTA",
+    "source": "github",
+    "event_type": "release_cadence_change (2 in trailing 90d vs 3 in prior 90d)",
+    "severity": 33.333333333333336,
+    "confidence": 0.9,
+    "observed_at": "2026-06-10T18:46:35+00:00",
+    "evidence_url": "https://github.com/okta/okta-auth-js/releases"
+  },
+  {
+    "ticker": "NET",
+    "source": "github",
+    "event_type": "release_cadence_change (1 in trailing 90d vs 1 in prior 90d)",
+    "severity": 50.0,
+    "confidence": 0.9,
+    "observed_at": "2026-06-04T20:30:37+00:00",
+    "evidence_url": "https://github.com/cloudflare/pingora/releases"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=327)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-15T12:08:59+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48540126"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=147)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-19T19:50:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47444906"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=13)",
+    "severity": 13.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-10T04:21:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48471384"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=12)",
+    "severity": 12.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-18T19:11:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47818618"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=11)",
+    "severity": 11.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-12T09:37:41+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49269830"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=11)",
+    "severity": 11.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-01T12:53:59+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48356192"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=7)",
+    "severity": 7.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-16T18:08:58+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47402579"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-22T01:00:07+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49000489"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-21T20:56:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49393691"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-16T09:06:15+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48552549"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-22T19:17:28+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47868000"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-29T16:05:25+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48325045"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-20T01:58:44+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47829523"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-15T12:48:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48540472"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-14T07:17:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48524937"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-24T14:25:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48257522"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-16T08:24:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48158058"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-12T08:40:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47737388"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-19T17:16:03+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49364339"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-18T17:36:01+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47817787"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-08T13:03:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48062488"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-01T01:52:07+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49130369"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-22T09:11:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49003795"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-15T12:42:36+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48540418"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T13:47:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48490289"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-02T05:29:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48366420"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-28T10:51:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48307175"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-20T19:16:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47839183"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-27T06:08:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47539538"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-27T17:30:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47183074"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-07T03:45:44+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48813456"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-20T09:22:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47831955"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-17T07:53:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47803510"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T02:42:54+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47318524"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-14T17:34:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49301966"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-01T20:33:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48362275"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-25T20:40:55+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48271441"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-05T08:55:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48019790"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-18T07:01:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47813754"
+  },
+  {
+    "ticker": "CRM",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T01:37:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47160687"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=62)",
+    "severity": 62.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-25T15:12:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48267829"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T17:09:54+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47168850"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-08T13:55:38+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48832028"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-30T11:51:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48731360"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-09T13:20:47+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48845387"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-02T14:16:47+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47218240"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-20T16:01:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48980708"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-07T16:08:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48819766"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-02T14:23:25+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48762103"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-24T13:35:04+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48659577"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-19T11:15:28+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48191842"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-13T07:23:13+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48118844"
+  },
+  {
+    "ticker": "HUBS",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-03T18:32:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47630270"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=62)",
+    "severity": 62.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-25T15:12:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48267829"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=424)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-17T14:18:38+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49331423"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=269)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-18T15:30:07+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47427017"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=37)",
+    "severity": 37.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T19:45:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48113425"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=25)",
+    "severity": 25.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-23T11:35:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47488048"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-12T13:07:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47350044"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-22T01:19:12+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49000611"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-23T01:57:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49015872"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-13T17:01:18+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48895569"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-03T19:26:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48388656"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-30T23:55:58+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48341748"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-28T00:10:04+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48302517"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-04T15:05:10+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47248553"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-06T17:36:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49199807"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-26T13:42:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47530385"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-04T12:23:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48007809"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-18T20:16:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47430880"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-16T18:41:44+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47402993"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-08T13:43:47+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47690138"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-02T19:33:07+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48766271"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-26T18:57:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47912850"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-20T15:56:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47836149"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-14T19:10:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49303284"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-04T19:23:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49173631"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-17T13:25:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48168740"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-17T19:18:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47809536"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-23T06:26:18+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47486035"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T19:19:46+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47170737"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-21T19:01:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47853007"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-20T13:25:15+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47833995"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-13T12:55:44+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49285220"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-21T13:18:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48991934"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-04T08:07:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48395646"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-24T07:08:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47886683"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-19T13:54:03+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47824324"
+  },
+  {
+    "ticker": "SNOW",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T12:22:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47322248"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=15)",
+    "severity": 15.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-06T19:25:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48040522"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=14)",
+    "severity": 14.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-29T14:09:15+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48719483"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=10)",
+    "severity": 10.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-28T04:44:26+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49079449"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=9)",
+    "severity": 9.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-29T15:24:46+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47949733"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=9)",
+    "severity": 9.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-12T15:24:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49273886"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-17T06:43:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47803112"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-13T10:29:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48120104"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-14T06:46:36+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48131932"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-11T15:19:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48096196"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-05T14:23:56+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49183404"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-17T07:12:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48944232"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-16T14:42:03+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48935283"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-10T10:26:45+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48858075"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-09T10:59:09+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48843889"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-22T10:46:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48234132"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-18T08:29:36+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48176827"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-10T12:15:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49242645"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-28T09:07:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49081275"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-21T15:19:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48993444"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-13T12:15:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48891537"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-25T08:46:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48264747"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-12T18:56:15+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47355468"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-09T03:35:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47304607"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-03T19:43:10+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47237812"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T20:12:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47171425"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-11T23:28:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47734865"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-17T17:08:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47415455"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-23T10:40:42+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49019443"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-06T07:50:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48033480"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-05T19:14:27+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48027163"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-07T21:37:55+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47681673"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-03T14:51:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47233253"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-02T13:05:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47217493"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-29T13:49:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48719284"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-06T16:40:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48038286"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-02T12:00:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47613265"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T14:45:13+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47323989"
+  },
+  {
+    "ticker": "MDB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-05T09:18:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47259468"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=30)",
+    "severity": 30.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-15T21:19:18+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47392052"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=27)",
+    "severity": 27.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-01T09:22:56+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47205101"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-14T16:19:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48137547"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-09T21:35:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47315879"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-20T07:12:28+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49371419"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-09T15:19:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47704897"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T18:30:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47170042"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-14T17:35:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48910300"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-25T20:48:17+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48678987"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-01T18:59:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48361114"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-13T09:34:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47362277"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-21T12:30:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49387111"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T20:45:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48496171"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-02T17:49:09+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47221413"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-02T09:56:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48758943"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-23T16:35:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48647556"
+  },
+  {
+    "ticker": "DDOG",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T04:44:59+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48486317"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=237)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-24T21:57:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48666100"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=116)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-18T11:20:18+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48583703"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=17)",
+    "severity": 17.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-21T23:37:41+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49395076"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=9)",
+    "severity": 9.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-24T20:51:16+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48665457"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=9)",
+    "severity": 9.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-05T18:17:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48416233"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-05T14:20:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49183347"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-15T21:38:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48927394"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-14T10:50:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48904782"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-25T00:28:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48667248"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-02T03:38:56+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48365720"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T09:13:46+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48105941"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-10T18:48:08+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48086632"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-08T17:01:54+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48065835"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-16T12:59:12+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48554567"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-31T23:53:04+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49129803"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-23T15:44:27+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48646866"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-21T16:34:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48225486"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-16T01:20:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48155921"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-10T01:55:58+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48080246"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-15T01:44:27+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48143538"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-22T14:49:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47864457"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-15T22:49:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47786343"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-11T06:57:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47332423"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-12T21:03:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49278520"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-03T17:31:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49158902"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-30T08:01:26+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49107189"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-27T12:04:16+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49068407"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-07T06:56:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48814485"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-19T14:03:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48598740"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T18:22:54+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48112229"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-11T13:41:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48094896"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-09T21:14:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48078334"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-30T18:49:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47578169"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-18T22:55:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47432430"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-11T15:11:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47336670"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-11T12:03:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49256919"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-12T00:19:35+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47735102"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-21T11:53:01+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49386739"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-23T14:37:30+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48645671"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-22T06:30:46+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48232682"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-05T09:17:03+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48019967"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-16T16:49:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47796140"
+  },
+  {
+    "ticker": "ESTC",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-10T09:15:59+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47715479"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1404)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-28T17:39:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47556729"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=703)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-11T20:51:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48100500"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=40)",
+    "severity": 40.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-20T19:25:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49378994"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=27)",
+    "severity": 27.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-18T08:47:23+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47814300"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=14)",
+    "severity": 14.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-03T05:14:32+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48380169"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=10)",
+    "severity": 10.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-03T16:24:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48386127"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=8)",
+    "severity": 8.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-09T01:19:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48839718"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=7)",
+    "severity": 7.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-05T13:35:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48412354"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-30T11:26:42+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48731119"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=6)",
+    "severity": 6.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-28T01:33:04+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47188821"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T20:14:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48495822"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-01T02:59:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47596260"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-31T23:36:35+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47594892"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-06T14:53:07+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47275609"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-19T07:29:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49358155"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-16T04:22:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48550547"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-09T14:27:52+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48075257"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-09T12:46:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47308344"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-12T17:12:01+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48882709"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-13T16:00:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48123659"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-11T15:41:47+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47337080"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-19T20:23:52+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49366725"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-02T21:02:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48767338"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-25T13:18:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48672916"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-19T00:05:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48593286"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T18:49:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48494762"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T09:00:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48105870"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T00:45:27+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48102767"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-31T17:13:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47590489"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T18:39:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48112450"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-05T22:39:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48798625"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-02T02:18:28+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47213083"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-19T19:39:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49366221"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-03T15:43:12+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49157282"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-27T19:23:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48700936"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-23T16:52:23+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48249169"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-15T14:30:38+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48149126"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-14T10:15:39+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48133344"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-12T13:54:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48108353"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-08T11:13:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48061481"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-03T10:54:56+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47995646"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-13T06:52:12+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47748554"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-03T18:26:36+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47236570"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-26T09:31:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47528336"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-11T07:09:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48487246"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-26T11:48:41+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47909557"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-21T05:56:55+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49384308"
+  },
+  {
+    "ticker": "GTLB",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-10T17:21:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48862694"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=62)",
+    "severity": 62.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-25T15:12:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48267829"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=5)",
+    "severity": 5.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-15T20:33:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49314070"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-09T21:36:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48852683"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-16T12:53:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48554460"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=3)",
+    "severity": 3.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-17T13:25:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47805680"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-19T07:26:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47436014"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-08T11:33:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48830588"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-12T19:12:13+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49277211"
+  },
+  {
+    "ticker": "TWLO",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-01T14:18:58+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47975100"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=29)",
+    "severity": 29.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T13:09:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47322794"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=43)",
+    "severity": 43.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-20T05:54:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49370862"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-01T08:34:27+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47204847"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-20T12:15:11+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49373565"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-04T19:01:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49173310"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-28T21:00:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48315404"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-06T20:49:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47280875"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=2)",
+    "severity": 2.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-25T10:22:25+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47149735"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-13T01:05:47+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47746311"
+  },
+  {
+    "ticker": "ASAN",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-01T11:01:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47205636"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "hn",
+    "event_type": "hn_story (points=4)",
+    "severity": 4.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-26T18:42:21+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48283992"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-28T06:53:24+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47931197"
+  },
+  {
+    "ticker": "CRWD",
+    "source": "hn",
+    "event_type": "hn_story (points=1)",
+    "severity": 1.0,
+    "confidence": 0.6,
+    "observed_at": "2026-02-26T20:07:48+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47171362"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=1356)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-07T20:23:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48054423"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=1157)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-12T12:28:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47738883"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=986)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-29T20:21:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47566865"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=787)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-31T14:13:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48345840"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=689)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-04T13:00:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48398055"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=668)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-05T13:58:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49182996"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=660)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-16T17:49:46+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49322107"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=658)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-06T03:10:33+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48031684"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=524)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-08T19:18:26+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48836233"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=497)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T22:27:15+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47329557"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=464)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-16T13:21:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47792593"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=418)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-22T03:43:51+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47474255"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=415)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-07T13:23:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47675013"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=386)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-07T14:07:34+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47675625"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=355)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-01T13:59:13+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48746914"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=350)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-26T23:36:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48287468"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=336)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-13T15:44:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47753689"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=307)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-16T13:17:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47792538"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=284)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-11T18:12:38+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48098537"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=256)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-08T13:18:03+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48831565"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=249)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-20T11:19:05+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48608394"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=194)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-25T22:50:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49052564"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=151)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-05T17:56:19+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48415987"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=128)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T12:55:14+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47322629"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=119)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-15T14:08:40+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49310719"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=119)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-20T21:45:57+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48214617"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=112)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-07T18:36:35+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48821749"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=103)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-07T13:25:31+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48049160"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=101)",
+    "severity": 100.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-05T16:45:09+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48025001"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=90)",
+    "severity": 90.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-13T15:09:52+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48122954"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=84)",
+    "severity": 84.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-23T22:06:49+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47495795"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=83)",
+    "severity": 83.0,
+    "confidence": 0.6,
+    "observed_at": "2026-05-07T21:22:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48055238"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=76)",
+    "severity": 76.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-14T15:03:12+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49299667"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=76)",
+    "severity": 76.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-19T17:45:41+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49364721"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=66)",
+    "severity": 66.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-16T09:51:18+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47396973"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=60)",
+    "severity": 60.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-04T21:31:02+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49175461"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=59)",
+    "severity": 59.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-09T14:45:04+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48846757"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=58)",
+    "severity": 58.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-03T13:30:53+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49155579"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=54)",
+    "severity": 54.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-18T19:42:54+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48590505"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=54)",
+    "severity": 54.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-03T17:18:06+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49158714"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=54)",
+    "severity": 54.0,
+    "confidence": 0.6,
+    "observed_at": "2026-08-04T15:49:50+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=49170628"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=46)",
+    "severity": 46.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T08:41:37+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47320571"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=42)",
+    "severity": 42.0,
+    "confidence": 0.6,
+    "observed_at": "2026-07-12T20:42:20+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48884580"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=38)",
+    "severity": 38.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-11T12:17:29+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47729925"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=32)",
+    "severity": 32.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-19T02:06:43+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47821232"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=31)",
+    "severity": 31.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-01T15:06:26+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48357831"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=30)",
+    "severity": 30.0,
+    "confidence": 0.6,
+    "observed_at": "2026-06-20T00:04:59+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=48604801"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=29)",
+    "severity": 29.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-10T13:09:00+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47322794"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=27)",
+    "severity": 27.0,
+    "confidence": 0.6,
+    "observed_at": "2026-04-14T13:47:38+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47765623"
+  },
+  {
+    "ticker": "NET",
+    "source": "hn",
+    "event_type": "hn_story (points=24)",
+    "severity": 24.0,
+    "confidence": 0.6,
+    "observed_at": "2026-03-05T18:21:29+00:00",
+    "evidence_url": "https://news.ycombinator.com/item?id=47265210"
+  }
+]

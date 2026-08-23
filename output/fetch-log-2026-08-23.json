@@ -1,0 +1,177 @@
+{
+  "captured_at": "2026-08-23T19:06:34.653277+00:00",
+  "sec": {
+    "CRM": {
+      "filing_signals": 19
+    },
+    "HUBS": {
+      "filing_signals": 11
+    },
+    "SNOW": {
+      "filing_signals": 8
+    },
+    "MDB": {
+      "filing_signals": 7
+    },
+    "DDOG": {
+      "filing_signals": 12
+    },
+    "ESTC": {
+      "filing_signals": 5
+    },
+    "GTLB": {
+      "filing_signals": 11
+    },
+    "TWLO": {
+      "filing_signals": 9
+    },
+    "ASAN": {
+      "filing_signals": 17
+    },
+    "MNDY": {
+      "filing_signals": 0
+    },
+    "ZS": {
+      "filing_signals": 5
+    },
+    "OKTA": {
+      "filing_signals": 9
+    },
+    "CRWD": {
+      "filing_signals": 10
+    },
+    "NET": {
+      "filing_signals": 18
+    }
+  },
+  "github": {
+    "CRM": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "HUBS": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "SNOW": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (5 in trailing 90d vs 2 in prior 90d)"
+    },
+    "MDB": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "DDOG": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (14 in trailing 90d vs 13 in prior 90d)"
+    },
+    "ESTC": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (16 in trailing 90d vs 13 in prior 90d)"
+    },
+    "GTLB": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "TWLO": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (1 in trailing 90d vs 6 in prior 90d)"
+    },
+    "ASAN": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "MNDY": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (100 in trailing 90d vs 0 in prior 90d)"
+    },
+    "ZS": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (7 in trailing 90d vs 5 in prior 90d)"
+    },
+    "OKTA": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (2 in trailing 90d vs 3 in prior 90d)"
+    },
+    "CRWD": {
+      "signal_emitted": false,
+      "event_type": null
+    },
+    "NET": {
+      "signal_emitted": true,
+      "event_type": "release_cadence_change (1 in trailing 90d vs 1 in prior 90d)"
+    }
+  },
+  "hn": {
+    "CRM": {
+      "hits_returned": 50,
+      "resolved": 41,
+      "dropped": 9
+    },
+    "HUBS": {
+      "hits_returned": 50,
+      "resolved": 13,
+      "dropped": 37
+    },
+    "SNOW": {
+      "hits_returned": 50,
+      "resolved": 35,
+      "dropped": 15
+    },
+    "MDB": {
+      "hits_returned": 50,
+      "resolved": 38,
+      "dropped": 12
+    },
+    "DDOG": {
+      "hits_returned": 50,
+      "resolved": 17,
+      "dropped": 33
+    },
+    "ESTC": {
+      "hits_returned": 50,
+      "resolved": 43,
+      "dropped": 7
+    },
+    "GTLB": {
+      "hits_returned": 50,
+      "resolved": 48,
+      "dropped": 2
+    },
+    "TWLO": {
+      "hits_returned": 50,
+      "resolved": 10,
+      "dropped": 40
+    },
+    "ASAN": {
+      "hits_returned": 50,
+      "resolved": 9,
+      "dropped": 41
+    },
+    "MNDY": {
+      "hits_returned": 4,
+      "resolved": 0,
+      "dropped": 4
+    },
+    "ZS": {
+      "hits_returned": 9,
+      "resolved": 0,
+      "dropped": 9
+    },
+    "OKTA": {
+      "hits_returned": 50,
+      "resolved": 0,
+      "dropped": 50
+    },
+    "CRWD": {
+      "hits_returned": 10,
+      "resolved": 3,
+      "dropped": 7
+    },
+    "NET": {
+      "hits_returned": 50,
+      "resolved": 50,
+      "dropped": 0
+    }
+  }
+}

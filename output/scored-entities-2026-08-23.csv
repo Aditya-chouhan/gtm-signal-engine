@@ -1,0 +1,15 @@
+rank,ticker,name,composite_score,signal_count,sec_signals,github_signals,hn_signals
+1,NET,Cloudflare,1.0000,70,18,1,51
+2,SNOW,Snowflake,0.9039,44,8,1,35
+3,MNDY,monday.com,0.8983,1,0,1,0
+4,HUBS,HubSpot,0.8809,23,11,0,12
+5,ESTC,Elastic,0.7902,49,5,1,43
+6,CRM,Salesforce,0.7703,59,19,0,40
+7,DDOG,Datadog,0.7355,30,12,1,17
+8,TWLO,Twilio,0.6959,21,9,1,11
+9,GTLB,GitLab,0.6940,59,11,0,48
+10,ZS,Zscaler,0.6101,6,5,1,0
+11,ASAN,Asana,0.6026,26,17,0,9
+12,OKTA,Okta,0.4388,10,9,1,0
+13,MDB,MongoDB,0.4165,45,7,0,38
+14,CRWD,CrowdStrike,0.3137,13,10,0,3

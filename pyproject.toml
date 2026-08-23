@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gtm-signal-engine"
+version = "0.1.0"
+description = "Multi-source signal fusion: GitHub activity, SEC EDGAR filings, and HN mentions, scored with a documented Severity x Confidence x Recency model."
+requires-python = ">=3.9"
+dependencies = ["requests>=2.31.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
