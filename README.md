@@ -114,12 +114,12 @@ averaged away.
 
 | Rank | Ticker | Composite | Signals (SEC / GitHub / HN) |
 |---|---|---|---|
-| 1 | NET (Cloudflare) | 1.000 | 18 / 1 / 51 |
-| 2 | SNOW (Snowflake) | 0.904 | 8 / 1 / 35 |
-| 3 | MNDY (monday.com) | 0.898 | 0 / 1 / 0 — one high-severity GitHub signal alone |
+| 1 | NET (Cloudflare) | 1.0000 | 18 / 1 / 51 |
+| 2 | SNOW (Snowflake) | 0.9039 | 8 / 1 / 35 |
+| 3 | MNDY (monday.com) | 0.8983 | 0 / 1 / 0 — one high-severity GitHub signal alone |
 | … | | | |
-| 12 | MDB (MongoDB) | 0.417 | 7 / 0 / 38 |
-| 13 | CRWD (CrowdStrike) | 0.314 | 10 / 0 / 3 |
+| 12 | MDB (MongoDB) | 0.4165 | 7 / 0 / 38 |
+| 13 | CRWD (CrowdStrike) | 0.3137 | 10 / 0 / 3 |
 
 Full table: `output/scored-entities-2026-08-23.csv`. Raw per-signal evidence
 (every SEC filing URL, GitHub releases page, HN story link) in
