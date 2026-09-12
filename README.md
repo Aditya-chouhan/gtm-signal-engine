@@ -1,5 +1,10 @@
 # GTM Signal Engine — Multi-Source Signal Fusion
 
+> **Current implementation.** This repository succeeds the narrower
+> [`signal-engine-demo`](https://github.com/Aditya-chouhan/signal-engine-demo).
+> The earlier repository is retained as dated provenance; this is the version
+> to review for architecture, tests and execution evidence.
+
 A composite scoring engine that ingests real signals from three independent,
 free, public APIs — SEC EDGAR filings, GitHub release activity, and Hacker
 News mentions — resolves them to canonical entities, and combines them with
